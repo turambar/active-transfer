@@ -1,4 +1,4 @@
-function w = simple_weights(iw, ~, ~)   %function wl = simple_weights(w, iw, varargin)
+function w = simple_weights(iw, ~, ~)
 % SIMPLE_WEIGHTS(IW, ~) Combine instance weights and importance
 % weights via elementwise multiplication. In contrast transfer version.
 %
